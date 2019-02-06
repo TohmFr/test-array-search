@@ -1,4 +1,6 @@
 bin/
 obj/
+[B]in/
+obj/
 bin
 obj
