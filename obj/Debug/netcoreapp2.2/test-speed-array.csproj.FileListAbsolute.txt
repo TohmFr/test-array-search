@@ -1,0 +1,11 @@
+C:\Users\tbard_000\Desktop\perso\test-speed-array\obj\Debug\netcoreapp2.2\test-speed-array.csprojAssemblyReference.cache
+C:\Users\tbard_000\Desktop\perso\test-speed-array\obj\Debug\netcoreapp2.2\test-speed-array.csproj.CoreCompileInputs.cache
+C:\Users\tbard_000\Desktop\perso\test-speed-array\obj\Debug\netcoreapp2.2\test-speed-array.AssemblyInfoInputs.cache
+C:\Users\tbard_000\Desktop\perso\test-speed-array\obj\Debug\netcoreapp2.2\test-speed-array.AssemblyInfo.cs
+C:\Users\tbard_000\Desktop\perso\test-speed-array\bin\Debug\netcoreapp2.2\test-speed-array.deps.json
+C:\Users\tbard_000\Desktop\perso\test-speed-array\bin\Debug\netcoreapp2.2\test-speed-array.runtimeconfig.json
+C:\Users\tbard_000\Desktop\perso\test-speed-array\bin\Debug\netcoreapp2.2\test-speed-array.runtimeconfig.dev.json
+C:\Users\tbard_000\Desktop\perso\test-speed-array\bin\Debug\netcoreapp2.2\test-speed-array.dll
+C:\Users\tbard_000\Desktop\perso\test-speed-array\bin\Debug\netcoreapp2.2\test-speed-array.pdb
+C:\Users\tbard_000\Desktop\perso\test-speed-array\obj\Debug\netcoreapp2.2\test-speed-array.dll
+C:\Users\tbard_000\Desktop\perso\test-speed-array\obj\Debug\netcoreapp2.2\test-speed-array.pdb
